@@ -1,0 +1,1 @@
+Building some basic GenAI applications with the help of Gemini models
